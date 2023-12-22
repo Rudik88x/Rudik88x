@@ -15,10 +15,3 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
-
-### Stats:
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rudik88x&show_icons=true&hide_border=true" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rudik88x&hide=css,scss,html,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
-
