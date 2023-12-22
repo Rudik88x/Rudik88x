@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Rudik Babanesov 👋
+
+##### I'm a Data Scientist. I specialize in data analysis, machine learning, and algorithm development. I also love to learn and grow, so I’m always looking to take on new challenges.
+
 
 <!--
 **Rudik88x/Rudik88x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
